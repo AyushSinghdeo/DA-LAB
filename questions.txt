@@ -1,0 +1,24 @@
+ASSIGNMENT 1
+
+1) Write introduction about R
+2)
+Advantages and disadvantages of R
+3)
+Installation of R and R studio
+
+ASSIGNMENT 2
+
+1) Write a program to input your name, age and address and print them
+2) Write a program to input your marks for three subjects then find sum and percentage
+3) WAP to find the area of a circle
+4) WAP to find the perimeter and area of a triangle
+5) WAP to find the volume of a sphere
+6) WAP to calculate and print simple interest and compound interest
+7) WAP to input first name, middlename and last name and cancatenate them and print
+8) WAP to take co-ordinates of two points as input and find the distance b/w them
+
+ASSIGNMENT 3
+
+1) WAP to check whether a number is even or odd
+2) WAP to enter 3 coefficents and find their real roots
+3) WAP to find the greatest among 3 unequal numbers 
