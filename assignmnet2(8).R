@@ -1,0 +1,5 @@
+x1 = as.integer(readline("Enter x1 : "))
+y1 = as.integer(readline("Enter y1 : "))
+x2 = as.integer(readline("Enter x2 : "))
+y2 = as.integer(readline("Enter y2 : "))
+print(paste("Distance between the points", (sqrt(((x2-x1)^2)+((y2-y1)^2)))))
